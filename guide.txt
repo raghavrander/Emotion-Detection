@@ -1,0 +1,6 @@
+Guide to access the files:
+Data: Folder with images
+Colab: Contains the model
+labels_new: csv file with labels used for training the model
+labels_Raghav_Naveen: csv file with labels of Raghav and Naveen and kappa score calculation
+Report_Q1: Report and summary of question 1
